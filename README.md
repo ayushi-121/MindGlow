@@ -1,2 +1,2 @@
 # MindGlow
-This a blogging website 
+This is a blogging website 
